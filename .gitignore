@@ -9,9 +9,10 @@ target/
 mvnw
 mvnw.cmd
 
-# ===== Spring Boot =====
+# ===== Spring Boot - NEVER commit secrets =====
 application-local.properties
 application-secret.properties
+**/target/classes/application.properties
 
 # ===== Node / React =====
 node_modules/
