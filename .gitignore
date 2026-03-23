@@ -57,3 +57,4 @@ Dockerfile
 *.tmp
 *.swp
 *.bak
+backend/src/main/resources/application.properties
