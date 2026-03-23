@@ -1,0 +1,25 @@
+# Visual Studio Code settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+*.env
+
+# Docker files
+docker-compose.yml
+Dockerfile
+DockerFile
+
